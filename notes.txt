@@ -1,0 +1,4 @@
+Contours are based on Douglass-Peucker Algorithm
+
+Adaptive threshold works on Gaussian C Algorithm
+
